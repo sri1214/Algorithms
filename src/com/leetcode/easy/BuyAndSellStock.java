@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.easy;
 
 /**
  * 121. Best Time to Buy and Sell Stock
